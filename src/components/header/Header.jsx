@@ -35,6 +35,7 @@ const Header = () => {
                         <span>Airport taxis</span>
                     </div>
                 </div>
+                <h1 className="headerTitle"></h1>
             </div>
         </div>
     );
